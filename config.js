@@ -60,7 +60,7 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'WhatsApp',
-			icon: 'whatsapp',
+			icon: 'message-circle-more',
 			link: 'https://web.whatsapp.com/',
 		},
 		{
@@ -72,7 +72,7 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Telegram',
-			icon: 'telegram',
+			icon: 'send',
 			link: 'https://web.telegram.org/k/',
 		},
 		{
