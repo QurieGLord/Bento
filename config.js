@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Qurie',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -26,7 +26,7 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: 'd74d357ec8866229d1acda832e5da55c', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -59,21 +59,21 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'WhatsApp',
+			icon: 'whatsapp',
+			link: 'https://web.whatsapp.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
+			name: 'YouTube',
+			icon: 'youtube',
 			link: 'https://todoist.com',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Telegram',
+			icon: 'telegram',
+			link: 'https://web.telegram.org/k/',
 		},
 		{
 			id: '5',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Mail',
+			icon: 'mail',
+			link: 'https://mail.google.com/',
 		},
 	],
 
