@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'ChatGPT',
-			icon: 'atom',
-			link: 'https://chat.openai.com/',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com/',
 		},
 		{
 			id: '4',
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'ChatGPT',
+			icon: 'atom',
+			link: 'https://chat.openai.com/',
 		},
 		{
 			id: '6',
