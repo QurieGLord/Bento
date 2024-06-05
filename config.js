@@ -65,21 +65,21 @@ const CONFIG = {
 		},
 		{
 			id: '3',
+			name: 'ChatGPT',
+			icon: 'atom',
+			link: 'https://chat.openai.com/',
+		},
+		{
+			id: '4',
 			name: 'Reddit',
 			icon: 'bot',
 			link: 'https://reddit.com',
 		},
 		{
-			id: '4',
+			id: '5',
 			name: 'Github',
 			icon: 'github',
 			link: 'https://github.com/',
-		},
-		{
-			id: '5',
-			name: 'YouTube',
-			icon: 'youtube',
-			link: 'https://www.youtube.com/',
 		},
 		{
 			id: '6',
@@ -122,20 +122,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'YouTube',
+					link: 'https://www.youtube.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Habr',
+					link: 'https://habr.com/ru/feed/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: '2ch',
+					link: 'https://2ch.hk/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Vk',
+					link: 'https://vk.com/feed',
 				},
 			],
 		},
