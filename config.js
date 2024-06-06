@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'ChatGPT',
-			icon: 'atom',
-			link: 'https://chat.openai.com/',
+			name: 'Sheets',
+			icon: 'table-2',
+			link: 'https://docs.google.com/spreadsheets/d/17LmXOqTJwJvG-G0mqPC936L-iqe-IdhysUb251xdm0g/edit#gid=1209933043',
 		},
 		{
 			id: '6',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.google.com/',
+			name: 'ChatGPT',
+			icon: 'atom',
+			link: 'https://chat.openai.com/',
 		},
 	],
 
